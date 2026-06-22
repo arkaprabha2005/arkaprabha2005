@@ -1,5 +1,18 @@
 <h1 data-importer="text" align="center">Let's 6-7 🤲</h1>
 
+java
+class Developer {
+    String name = "Arkaprabha Pal";
+    String role = "Computer Science Student";
+    String[] interests = {
+        "Java ☕",
+        "Data Structures & Algorithms 🧠",
+        "Flutter 📱",
+        "AI-powered Applications 🤖"
+    };
+
+    String currentGoal = "Building skills one commit at a time 🚀";
+}
 ###
 
 <div data-importer="image" align="center">
