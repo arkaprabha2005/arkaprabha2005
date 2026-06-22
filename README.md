@@ -1,18 +1,42 @@
 <h1 data-importer="text" align="center">Let's 6-7 🤲</h1>
+## 👋 Hey, I'm Arkaprabha Pal
 
-java
+🚀 Computer Science student exploring the world of software development  
+💻 Currently sharpening my problem-solving skills with **Java & Data Structures and Algorithms**  
+📱 Building cross-platform applications with **Flutter**  
+🤖 Interested in AI-powered solutions, scalable apps, and turning ideas into real products  
+
+```java
 class Developer {
     String name = "Arkaprabha Pal";
-    String role = "Computer Science Student";
-    String[] interests = {
-        "Java ☕",
+    String role = "Computer Science Student 🎓";
+
+    String[] currentlyLearning = {
         "Data Structures & Algorithms 🧠",
-        "Flutter 📱",
-        "AI-powered Applications 🤖"
+        "Java ☕",
+        "Flutter Development 📱",
+        "Software Engineering 🚀"
     };
 
-    String currentGoal = "Building skills one commit at a time 🚀";
+    String[] interests = {
+        "Problem Solving",
+        "App Development",
+        "AI-powered Solutions",
+        "Building Real-world Projects"
+    };
+
+    String mindset = "Learn. Build. Break. Improve. Repeat 🔁";
 }
+```
+
+🔭 Currently working on:
+- Strengthening my DSA fundamentals through LeetCode  
+- Creating impactful cross-platform applications  
+- Exploring modern technologies & scalable systems  
+
+⚡ I believe the best way to learn is by building, debugging, and improving.
+
+📌 Always curious. Always building.
 ###
 
 <div data-importer="image" align="center">
